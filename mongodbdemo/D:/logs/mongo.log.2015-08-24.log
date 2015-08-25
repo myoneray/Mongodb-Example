@@ -1,0 +1,815 @@
+2015-08-24 15:03:28 [com.mongo.test.MongoTest]-[DEBUG] 开始启动
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 开始启动
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] listAll查询结果如下:
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6120, value=6, ts=1440384716460]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6121, value=9, ts=1440384716468]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6122, value=4, ts=1440384716469]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6123, value=3, ts=1440384716469]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6124, value=3, ts=1440384716470]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6125, value=3, ts=1440384716470]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6126, value=6, ts=1440384716471]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6127, value=3, ts=1440384716471]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6128, value=0, ts=1440384716472]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6129, value=2, ts=1440384716472]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612a, value=5, ts=1440384716473]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612b, value=7, ts=1440384716473]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612c, value=8, ts=1440384716473]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612d, value=6, ts=1440384716474]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612e, value=2, ts=1440384716474]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612f, value=7, ts=1440384716475]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6130, value=1, ts=1440384716477]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6131, value=0, ts=1440384716477]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6132, value=7, ts=1440384716478]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6133, value=1, ts=1440384716478]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecb, value=9, ts=1440399199074]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecc, value=5, ts=1440399199082]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecd, value=1, ts=1440399199082]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ece, value=5, ts=1440399199083]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecf, value=9, ts=1440399199083]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed0, value=3, ts=1440399199084]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed1, value=8, ts=1440399199084]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed2, value=8, ts=1440399199085]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed3, value=0, ts=1440399199085]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed4, value=4, ts=1440399199085]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed5, value=0, ts=1440399199086]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed6, value=9, ts=1440399199086]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed7, value=8, ts=1440399199087]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed8, value=5, ts=1440399199087]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed9, value=5, ts=1440399199087]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3eda, value=0, ts=1440399199088]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edb, value=3, ts=1440399199090]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edc, value=6, ts=1440399199090]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edd, value=3, ts=1440399199091]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ede, value=1, ts=1440399199091]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffece, value=5, ts=1440399205872]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffecf, value=3, ts=1440399205878]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed0, value=3, ts=1440399205879]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed1, value=2, ts=1440399205879]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed2, value=3, ts=1440399205880]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed3, value=0, ts=1440399205880]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed4, value=3, ts=1440399205881]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed5, value=4, ts=1440399205881]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed6, value=6, ts=1440399205881]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed7, value=2, ts=1440399205882]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed8, value=9, ts=1440399205882]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed9, value=8, ts=1440399205883]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffeda, value=9, ts=1440399205883]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedb, value=2, ts=1440399205884]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedc, value=7, ts=1440399205884]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedd, value=4, ts=1440399205885]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffede, value=6, ts=1440399205886]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedf, value=1, ts=1440399205887]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffee0, value=9, ts=1440399205887]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffee1, value=3, ts=1440399205888]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6987, value=2, ts=1440399378351]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6988, value=8, ts=1440399378359]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6989, value=7, ts=1440399378360]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698a, value=3, ts=1440399378360]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698b, value=2, ts=1440399378361]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698c, value=7, ts=1440399378361]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698d, value=0, ts=1440399378362]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698e, value=7, ts=1440399378362]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698f, value=9, ts=1440399378363]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6990, value=5, ts=1440399378363]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6991, value=1, ts=1440399378363]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6992, value=6, ts=1440399378364]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6993, value=4, ts=1440399378364]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6994, value=0, ts=1440399378365]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6995, value=9, ts=1440399378365]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6996, value=4, ts=1440399378366]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6997, value=8, ts=1440399378368]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6998, value=1, ts=1440399378368]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6999, value=3, ts=1440399378369]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b699a, value=2, ts=1440399378369]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509d, value=1, ts=1440399380804]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509e, value=2, ts=1440399380812]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509f, value=1, ts=1440399380813]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a0, value=2, ts=1440399380813]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a1, value=1, ts=1440399380813]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a2, value=7, ts=1440399380814]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a3, value=3, ts=1440399380814]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a4, value=6, ts=1440399380815]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a5, value=1, ts=1440399380815]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a6, value=6, ts=1440399380816]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a7, value=6, ts=1440399380816]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a8, value=2, ts=1440399380817]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a9, value=2, ts=1440399380817]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550aa, value=5, ts=1440399380818]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ab, value=4, ts=1440399380818]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ac, value=1, ts=1440399380818]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ad, value=9, ts=1440399380820]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ae, value=0, ts=1440399380821]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550af, value=1, ts=1440399380821]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550b0, value=7, ts=1440399380821]
+2015-08-24 15:03:37 [com.mongo.test.MongoTest]-[DEBUG] 数据总计共：419
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 开始启动
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] listAll查询结果如下:
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6120, value=6, ts=1440384716460]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6121, value=9, ts=1440384716468]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6122, value=4, ts=1440384716469]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6123, value=3, ts=1440384716469]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6124, value=3, ts=1440384716470]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6125, value=3, ts=1440384716470]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6126, value=6, ts=1440384716471]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6127, value=3, ts=1440384716471]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6128, value=0, ts=1440384716472]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6129, value=2, ts=1440384716472]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612a, value=5, ts=1440384716473]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612b, value=7, ts=1440384716473]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612c, value=8, ts=1440384716473]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612d, value=6, ts=1440384716474]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612e, value=2, ts=1440384716474]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612f, value=7, ts=1440384716475]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6130, value=1, ts=1440384716477]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6131, value=0, ts=1440384716477]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6132, value=7, ts=1440384716478]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6133, value=1, ts=1440384716478]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecb, value=9, ts=1440399199074]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecc, value=5, ts=1440399199082]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecd, value=1, ts=1440399199082]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ece, value=5, ts=1440399199083]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecf, value=9, ts=1440399199083]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed0, value=3, ts=1440399199084]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed1, value=8, ts=1440399199084]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed2, value=8, ts=1440399199085]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed3, value=0, ts=1440399199085]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed4, value=4, ts=1440399199085]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed5, value=0, ts=1440399199086]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed6, value=9, ts=1440399199086]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed7, value=8, ts=1440399199087]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed8, value=5, ts=1440399199087]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed9, value=5, ts=1440399199087]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3eda, value=0, ts=1440399199088]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edb, value=3, ts=1440399199090]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edc, value=6, ts=1440399199090]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edd, value=3, ts=1440399199091]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ede, value=1, ts=1440399199091]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffece, value=5, ts=1440399205872]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffecf, value=3, ts=1440399205878]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed0, value=3, ts=1440399205879]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed1, value=2, ts=1440399205879]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed2, value=3, ts=1440399205880]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed3, value=0, ts=1440399205880]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed4, value=3, ts=1440399205881]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed5, value=4, ts=1440399205881]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed6, value=6, ts=1440399205881]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed7, value=2, ts=1440399205882]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed8, value=9, ts=1440399205882]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed9, value=8, ts=1440399205883]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffeda, value=9, ts=1440399205883]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedb, value=2, ts=1440399205884]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedc, value=7, ts=1440399205884]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedd, value=4, ts=1440399205885]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffede, value=6, ts=1440399205886]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedf, value=1, ts=1440399205887]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffee0, value=9, ts=1440399205887]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffee1, value=3, ts=1440399205888]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6987, value=2, ts=1440399378351]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6988, value=8, ts=1440399378359]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6989, value=7, ts=1440399378360]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698a, value=3, ts=1440399378360]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698b, value=2, ts=1440399378361]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698c, value=7, ts=1440399378361]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698d, value=0, ts=1440399378362]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698e, value=7, ts=1440399378362]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698f, value=9, ts=1440399378363]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6990, value=5, ts=1440399378363]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6991, value=1, ts=1440399378363]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6992, value=6, ts=1440399378364]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6993, value=4, ts=1440399378364]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6994, value=0, ts=1440399378365]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6995, value=9, ts=1440399378365]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6996, value=4, ts=1440399378366]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6997, value=8, ts=1440399378368]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6998, value=1, ts=1440399378368]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6999, value=3, ts=1440399378369]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b699a, value=2, ts=1440399378369]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509d, value=1, ts=1440399380804]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509e, value=2, ts=1440399380812]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509f, value=1, ts=1440399380813]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a0, value=2, ts=1440399380813]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a1, value=1, ts=1440399380813]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a2, value=7, ts=1440399380814]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a3, value=3, ts=1440399380814]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a4, value=6, ts=1440399380815]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a5, value=1, ts=1440399380815]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a6, value=6, ts=1440399380816]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a7, value=6, ts=1440399380816]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a8, value=2, ts=1440399380817]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a9, value=2, ts=1440399380817]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550aa, value=5, ts=1440399380818]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ab, value=4, ts=1440399380818]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ac, value=1, ts=1440399380818]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ad, value=9, ts=1440399380820]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ae, value=0, ts=1440399380821]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550af, value=1, ts=1440399380821]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550b0, value=7, ts=1440399380821]
+2015-08-24 16:18:07 [com.mongo.test.MongoTest]-[DEBUG] 数据总计共：419
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 开始启动
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] listAll查询结果如下:
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6120, value=6, ts=1440384716460]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6121, value=9, ts=1440384716468]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6122, value=4, ts=1440384716469]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6123, value=3, ts=1440384716469]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6124, value=3, ts=1440384716470]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6125, value=3, ts=1440384716470]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6126, value=6, ts=1440384716471]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6127, value=3, ts=1440384716471]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6128, value=0, ts=1440384716472]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6129, value=2, ts=1440384716472]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612a, value=5, ts=1440384716473]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612b, value=7, ts=1440384716473]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612c, value=8, ts=1440384716473]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612d, value=6, ts=1440384716474]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612e, value=2, ts=1440384716474]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612f, value=7, ts=1440384716475]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6130, value=1, ts=1440384716477]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6131, value=0, ts=1440384716477]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6132, value=7, ts=1440384716478]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6133, value=1, ts=1440384716478]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecb, value=9, ts=1440399199074]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecc, value=5, ts=1440399199082]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecd, value=1, ts=1440399199082]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ece, value=5, ts=1440399199083]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecf, value=9, ts=1440399199083]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed0, value=3, ts=1440399199084]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed1, value=8, ts=1440399199084]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed2, value=8, ts=1440399199085]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed3, value=0, ts=1440399199085]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed4, value=4, ts=1440399199085]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed5, value=0, ts=1440399199086]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed6, value=9, ts=1440399199086]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed7, value=8, ts=1440399199087]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed8, value=5, ts=1440399199087]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed9, value=5, ts=1440399199087]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3eda, value=0, ts=1440399199088]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edb, value=3, ts=1440399199090]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edc, value=6, ts=1440399199090]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edd, value=3, ts=1440399199091]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ede, value=1, ts=1440399199091]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffece, value=5, ts=1440399205872]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffecf, value=3, ts=1440399205878]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed0, value=3, ts=1440399205879]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed1, value=2, ts=1440399205879]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed2, value=3, ts=1440399205880]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed3, value=0, ts=1440399205880]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed4, value=3, ts=1440399205881]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed5, value=4, ts=1440399205881]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed6, value=6, ts=1440399205881]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed7, value=2, ts=1440399205882]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed8, value=9, ts=1440399205882]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed9, value=8, ts=1440399205883]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffeda, value=9, ts=1440399205883]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedb, value=2, ts=1440399205884]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedc, value=7, ts=1440399205884]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedd, value=4, ts=1440399205885]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffede, value=6, ts=1440399205886]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedf, value=1, ts=1440399205887]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffee0, value=9, ts=1440399205887]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffee1, value=3, ts=1440399205888]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6987, value=2, ts=1440399378351]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6988, value=8, ts=1440399378359]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6989, value=7, ts=1440399378360]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698a, value=3, ts=1440399378360]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698b, value=2, ts=1440399378361]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698c, value=7, ts=1440399378361]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698d, value=0, ts=1440399378362]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698e, value=7, ts=1440399378362]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698f, value=9, ts=1440399378363]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6990, value=5, ts=1440399378363]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6991, value=1, ts=1440399378363]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6992, value=6, ts=1440399378364]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6993, value=4, ts=1440399378364]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6994, value=0, ts=1440399378365]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6995, value=9, ts=1440399378365]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6996, value=4, ts=1440399378366]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6997, value=8, ts=1440399378368]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6998, value=1, ts=1440399378368]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6999, value=3, ts=1440399378369]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b699a, value=2, ts=1440399378369]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509d, value=1, ts=1440399380804]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509e, value=2, ts=1440399380812]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509f, value=1, ts=1440399380813]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a0, value=2, ts=1440399380813]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a1, value=1, ts=1440399380813]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a2, value=7, ts=1440399380814]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a3, value=3, ts=1440399380814]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a4, value=6, ts=1440399380815]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a5, value=1, ts=1440399380815]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a6, value=6, ts=1440399380816]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a7, value=6, ts=1440399380816]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a8, value=2, ts=1440399380817]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a9, value=2, ts=1440399380817]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550aa, value=5, ts=1440399380818]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ab, value=4, ts=1440399380818]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ac, value=1, ts=1440399380818]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ad, value=9, ts=1440399380820]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ae, value=0, ts=1440399380821]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550af, value=1, ts=1440399380821]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550b0, value=7, ts=1440399380821]
+2015-08-24 16:19:52 [com.mongo.test.MongoTest]-[DEBUG] 数据总计共：419
+2015-08-24 16:56:49 [com.mongo.test.MongoTest]-[DEBUG] 开始启动
+2015-08-24 16:57:25 [com.mongo.test.MongoTest]-[DEBUG] 开始启动
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 开始启动
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] listAll查询结果如下:
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6120, value=6, ts=1440384716460]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6121, value=9, ts=1440384716468]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6122, value=4, ts=1440384716469]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6123, value=3, ts=1440384716469]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6124, value=3, ts=1440384716470]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6125, value=3, ts=1440384716470]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6126, value=6, ts=1440384716471]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6127, value=3, ts=1440384716471]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6128, value=0, ts=1440384716472]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6129, value=2, ts=1440384716472]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612a, value=5, ts=1440384716473]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612b, value=7, ts=1440384716473]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612c, value=8, ts=1440384716473]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612d, value=6, ts=1440384716474]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612e, value=2, ts=1440384716474]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea612f, value=7, ts=1440384716475]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6130, value=1, ts=1440384716477]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6131, value=0, ts=1440384716477]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6132, value=7, ts=1440384716478]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55da86cc04a6a8dcadea6133, value=1, ts=1440384716478]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecb, value=9, ts=1440399199074]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecc, value=5, ts=1440399199082]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecd, value=1, ts=1440399199082]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ece, value=5, ts=1440399199083]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ecf, value=9, ts=1440399199083]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed0, value=3, ts=1440399199084]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed1, value=8, ts=1440399199084]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed2, value=8, ts=1440399199085]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed3, value=0, ts=1440399199085]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed4, value=4, ts=1440399199085]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed5, value=0, ts=1440399199086]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed6, value=9, ts=1440399199086]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed7, value=8, ts=1440399199087]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed8, value=5, ts=1440399199087]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ed9, value=5, ts=1440399199087]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3eda, value=0, ts=1440399199088]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edb, value=3, ts=1440399199090]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edc, value=6, ts=1440399199090]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3edd, value=3, ts=1440399199091]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf5f04a6e6acfc3a3ede, value=1, ts=1440399199091]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffece, value=5, ts=1440399205872]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffecf, value=3, ts=1440399205878]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed0, value=3, ts=1440399205879]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed1, value=2, ts=1440399205879]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed2, value=3, ts=1440399205880]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed3, value=0, ts=1440399205880]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed4, value=3, ts=1440399205881]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed5, value=4, ts=1440399205881]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed6, value=6, ts=1440399205881]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed7, value=2, ts=1440399205882]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed8, value=9, ts=1440399205882]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffed9, value=8, ts=1440399205883]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffeda, value=9, ts=1440399205883]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedb, value=2, ts=1440399205884]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedc, value=7, ts=1440399205884]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedd, value=4, ts=1440399205885]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffede, value=6, ts=1440399205886]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffedf, value=1, ts=1440399205887]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffee0, value=9, ts=1440399205887]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dabf6504a6884dcccffee1, value=3, ts=1440399205888]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6987, value=2, ts=1440399378351]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6988, value=8, ts=1440399378359]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6989, value=7, ts=1440399378360]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698a, value=3, ts=1440399378360]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698b, value=2, ts=1440399378361]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698c, value=7, ts=1440399378361]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698d, value=0, ts=1440399378362]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698e, value=7, ts=1440399378362]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b698f, value=9, ts=1440399378363]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6990, value=5, ts=1440399378363]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6991, value=1, ts=1440399378363]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6992, value=6, ts=1440399378364]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6993, value=4, ts=1440399378364]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6994, value=0, ts=1440399378365]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6995, value=9, ts=1440399378365]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6996, value=4, ts=1440399378366]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 8
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6997, value=8, ts=1440399378368]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6998, value=1, ts=1440399378368]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b6999, value=3, ts=1440399378369]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01204a684e82d3b699a, value=2, ts=1440399378369]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509d, value=1, ts=1440399380804]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509e, value=2, ts=1440399380812]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d45509f, value=1, ts=1440399380813]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a0, value=2, ts=1440399380813]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a1, value=1, ts=1440399380813]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a2, value=7, ts=1440399380814]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 3
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a3, value=3, ts=1440399380814]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a4, value=6, ts=1440399380815]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a5, value=1, ts=1440399380815]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a6, value=6, ts=1440399380816]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 6
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a7, value=6, ts=1440399380816]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a8, value=2, ts=1440399380817]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 2
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550a9, value=2, ts=1440399380817]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 5
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550aa, value=5, ts=1440399380818]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 4
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ab, value=4, ts=1440399380818]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ac, value=1, ts=1440399380818]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 9
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ad, value=9, ts=1440399380820]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 0
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550ae, value=0, ts=1440399380821]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 1
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550af, value=1, ts=1440399380821]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 7
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] Person [id=55dac01404a65f331d4550b0, value=7, ts=1440399380821]
+2015-08-24 16:57:55 [com.mongo.test.MongoTest]-[DEBUG] 数据总计共：419
